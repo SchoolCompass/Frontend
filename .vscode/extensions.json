@@ -1,3 +1,10 @@
 {
-	"recommendations": ["esbenp.prettier-vscode", "yoavbls.pretty-ts-errors", "ardenivanov.svelte-intellisense", "svelte.svelte-vscode"]
+	"recommendations": [
+		"esbenp.prettier-vscode",
+		"yoavbls.pretty-ts-errors",
+		"ardenivanov.svelte-intellisense",
+		"svelte.svelte-vscode",
+		"dbaeumer.vscode-eslint",
+		"ms-edgedevtools.vscode-edge-devtools"
+	]
 }
